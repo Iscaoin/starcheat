@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/Iscaoin/Downloads/StarCheat.app/Contents/Resources/__boot__.py", line 399, in <module>
+  File "/Users/Iscaoin/Downloads/StarCheat.app/Contents/Resources/__boot__.py", line 336, in _run
+  File "/Users/Iscaoin/Downloads/StarCheat.app/Contents/Resources/starcheat.py", line 83, in <module>
+  File "/Users/Iscaoin/Downloads/StarCheat.app/Contents/Resources/starcheat.py", line 80, in main
+  File "gui/mainwindow.pyc", line 164, in __init__
+  File "assets/core.pyc", line 275, in species
+  File "assets/species.pyc", line 27, in __init__
+  File "assets/core.pyc", line 217, in read
+  File "starbound/helpers.pyc", line 213, in open
+  File "starbound/helpers.pyc", line 220, in read_stream
+  File "starbound/btreedb4.pyc", line 119, in initialize
+  File "starbound/sbbf02.pyc", line 89, in initialize
+AssertionError: Invalid file format
